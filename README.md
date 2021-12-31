@@ -30,3 +30,5 @@ nhiều tiêu chí).
 tham dự của User.
 - Màn hình quản lý User: xem danh sách, ngăn chặn truy cập, sắp xếp, lọc theo nhiều tiêu
 chí
+## Demo
+Link video: https://youtu.be/9mtJp9rVB1M
